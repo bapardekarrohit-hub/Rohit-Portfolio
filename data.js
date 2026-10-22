@@ -36,7 +36,7 @@ window.PORTFOLIO_DATA = {
       issuer: "JPMorgan Chase & Co. (Forage)",
       issued_on: "Aug 2026",
       description: "Completed practical tasks in project setup, Kafka integration, H2 database integration, REST API integration and building a REST API controller.",
-      file_url: "assets/certificates/jpmorgan.pdf",
+      file_url: "assets/certificate/jpmorgan.pdf",
       credential_url: ""
     },
     {
@@ -45,7 +45,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Tata (Forage)",
       issued_on: "Aug 2026",
       description: "Framed a business scenario, chose the right visuals, created effective visuals and communicated insights and analysis.",
-      file_url: "assets/certificates/tata.pdf",
+      file_url: "assets/certificate/tata.pdf",
       credential_url: ""
     },
 
@@ -56,7 +56,7 @@ window.PORTFOLIO_DATA = {
       issuer: "InAmigos Foundation",
       issued_on: "Jun 2026",
       description: "Web development internship (1 Jun to 17 Jun 2026). Built website prototypes, analysed UI/UX for NGO-focused AI-powered web design projects and proposed feature improvements that enhanced usability.",
-      file_url: "assets/certificates/internship.pdf",
+      file_url: "assets/certificate/internship.pdf",
       credential_url: ""
     },
     {
@@ -65,7 +65,7 @@ window.PORTFOLIO_DATA = {
       issuer: "InAmigos Foundation",
       issued_on: "Jun 2026",
       description: "Offer letter for the two-week Web Development internship at InAmigos Foundation.",
-      file_url: "assets/certificates/internship-offer-letter.pdf",
+      file_url: "assets/certificate/internship-offer-letter.pdf",
       credential_url: ""
     },
 
@@ -76,7 +76,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Udemy",
       issued_on: "Sep 2026",
       description: "25 hours of hands-on Python, data analysis and machine learning with Jose Portilla and Pierian Training.",
-      file_url: "assets/certificates/python-bootcamp.pdf",
+      file_url: "assets/certificate/python-bootcamp.pdf",
       credential_url: "https://ude.my/UC-d7683b37-e6f1-42cd-86c6-90907f5ad4d0"
     },
     {
@@ -85,7 +85,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Simplilearn SkillUP, powered by Microsoft",
       issued_on: "Aug 2026",
       description: "Core Excel skills for data work.",
-      file_url: "assets/certificates/excel.pdf",
+      file_url: "assets/certificate/excel.pdf",
       credential_url: ""
     },
     {
@@ -94,7 +94,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Google Cloud, via Simplilearn SkillUP",
       issued_on: "Apr 2026",
       description: "Online course on generative AI and Google Cloud's Generative AI Studio.",
-      file_url: "assets/certificates/generative-ai.pdf",
+      file_url: "assets/certificate/generative-ai.pdf",
       credential_url: ""
     },
     {
@@ -103,7 +103,7 @@ window.PORTFOLIO_DATA = {
       issuer: "HP LIFE (HP Foundation)",
       issued_on: "Dec 2024",
       description: "Basic understanding of AI concepts and applications, why data matters to AI, how it is used in business and its ethical implications.",
-      file_url: "assets/certificates/hp-life-ai-for-beginners.pdf",
+      file_url: "assets/certificate/hp-life-ai-for-beginners.pdf",
       credential_url: ""
     },
 
@@ -114,7 +114,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Nirmala Memorial Foundation College of Commerce and Science",
       issued_on: "Mar 2024",
       description: "30 hours of value-added training in Python.",
-      file_url: "assets/certificates/python-workshop.pdf",
+      file_url: "assets/certificate/python-workshop.pdf",
       credential_url: ""
     },
     {
@@ -123,7 +123,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Nirmala Memorial Foundation, with Scienox Technologies",
       issued_on: "Sep 2024",
       description: "Workshop on ethical hacking (2 to 6 Sep 2024), conducted by the Department of B.Sc. Computer Science in association with Scienox Technologies Private Limited.",
-      file_url: "assets/certificates/ethical-hacking.pdf",
+      file_url: "assets/certificate/ethical-hacking.pdf",
       credential_url: ""
     },
     {
@@ -132,7 +132,7 @@ window.PORTFOLIO_DATA = {
       issuer: "Nirmala Memorial Foundation College of Commerce and Science",
       issued_on: "Feb 2025",
       description: "30 hours of value-added training in Artificial Intelligence and Machine Learning.",
-      file_url: "assets/certificates/ai-ml-workshop.pdf",
+      file_url: "assets/certificate/ai-ml-workshop.pdf",
       credential_url: ""
     }
   ]
